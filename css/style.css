@@ -51,8 +51,8 @@ img:hover {
   display:inline-block;
 }
 
-.small {width: 55%;
- height: 55%;
+.small {grid-column: 55%;
+
   /*position: relative;*/
  
 }
