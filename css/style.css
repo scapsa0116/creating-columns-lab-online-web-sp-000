@@ -47,12 +47,10 @@ img:hover {
 }
 .column{
   grid-column: 48px;
-  display: inline-block;
+  display: automatic;
 }
 
-.small {
-    width: 25%;
-}
+.small {width: 25%;}
 
 .mrd{width:50%;}
 
