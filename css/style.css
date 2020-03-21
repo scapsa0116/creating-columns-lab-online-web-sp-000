@@ -47,7 +47,7 @@ img:hover {
 }
 .column{
  
-  grid: 48px;
+  grid-column: 48px;
   display:inline-block;
 }
 
