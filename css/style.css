@@ -46,7 +46,7 @@ img:hover {
   background-color: #dd4444;
 }
 .column{
-  grid-column: 15px;
+  grid-column: 10px;
   display:inline-block;
 }
 
