@@ -50,11 +50,11 @@ img:hover {
   display:inline-block;
 }
 
-.small {width: 25%;}
+.small {width: 75%;}
 
-.mrd{width:50%;}
+.mrd{width:100%;}
 
-.large{width:75%;}
+.large{width:125%;}
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
