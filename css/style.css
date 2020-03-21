@@ -46,16 +46,11 @@ img:hover {
   background-color: #dd4444;
 }
 .column{
- 
   grid-column: 48px;
   display:inline-block;
 }
 
-.small {grid-column: 75%;
-
-  /*position: relative;*/
- 
-}
+.small {width: 55%;}
 
 .med{width:55%;}
 
